@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: info.novatec.hello.world
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
