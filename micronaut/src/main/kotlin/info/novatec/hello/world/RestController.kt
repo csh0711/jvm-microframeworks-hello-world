@@ -8,7 +8,7 @@ import io.micronaut.http.annotation.Get
 class RestController {
 
     @Get("/")
-    fun helloWorld(): HttpResponse<String>? {
+    fun helloWorld(): HttpResponse<String> {
         return HttpResponse.ok("Hello World!")
     }
 }
