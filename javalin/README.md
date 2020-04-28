@@ -1,4 +1,4 @@
-# Hello World with Javalin
+# "Hello World" using [Javalin](https://javalin.io/)
 
 ## Starting the application
 
