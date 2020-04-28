@@ -36,11 +36,11 @@ as well as the introduction to the different frameworks
 * See [helidon](https://github.com/csh0711/jvm-microframeworks-hello-world/tree/master/helidon)
 
 ## Scenario  
-Every example contains a REST endpoint `http://localhost:8080/hello` which returns a plain text response via _GET_:
+Every example contains a REST endpoint `http://localhost:8080/hello` which returns a plain text response via _GET_.
 
 Just start the application from the command line or your favourite IDE and open the URL `http://localhost:8080/hello` 
 with your browser or REST client.
 
 ## Advanced examples
-If you need a bit more than just a _"Hello World"_ - please have a look at my other 
+If you need a bit more than just _"Hello World"_ - please have a look at my other 
 [repository with Kotlin / MongoDB samples](https://github.com/csh0711/jvm-microframeworks-kotlin-samples).
