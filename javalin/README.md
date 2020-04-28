@@ -2,15 +2,15 @@
 
 ## Running the application
 
-You can run your application by building it with Gradle:
+You can execute the application by building it with Gradle
 ```
 ./gradlew clean jar
 ```
-and afterwards and running it:
+and afterwards running it via
 ```
 java -jar build/libs/javalin-1.0-SNAPSHOT.jar 
 ```
 
-Or you start the `Application.kt` in your IDE.
+Or you just start the `Application.kt` in your IDE.
 
 
