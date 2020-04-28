@@ -15,6 +15,16 @@ dependencies {
     compile "org.slf4j:slf4j-simple:1.7.30"
 }
 
+jar {
+    manifest {
+        attributes "Main-Class": "info.novatec.hello.world.ApplicationKt"
+    }
+
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}
+
 compileKotlin {
     kotlinOptions.jvmTarget = "1.8"
 }
