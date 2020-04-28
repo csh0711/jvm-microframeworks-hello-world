@@ -1,4 +1,4 @@
-# Hello World with Quarkus
+# "Hello World" using [Quarkus](https://quarkus.io/)
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
