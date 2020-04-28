@@ -16,6 +16,17 @@ dependencies {
     compile group: "org.http4k", name: "http4k-client-apache", version: "3.238.0"
 }
 
+jar {
+    manifest {
+        attributes "Main-Class": "info.novatec.hello.world.ApplicationKt"
+    }
+
+    doFirst {
+        from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    }
+    exclude 'META-INF/*.RSA', 'META-INF/*.SF','META-INF/*.DSA'
+}
+
 compileKotlin {
     kotlinOptions.jvmTarget = "1.8"
 }
