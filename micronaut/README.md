@@ -1,4 +1,4 @@
-# "Hello World" using [Micronaut](https://https://micronaut.io/)
+# "Hello World" using [Micronaut](https://micronaut.io/)
 
 ## Running the application
 
