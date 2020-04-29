@@ -11,7 +11,7 @@ and afterwards running it via
 java -jar build/libs/ratpack.jar 
 ```
 
-Or you just start the `Application.kt` in your IDE.
+Or you just start the `Main.java` in your IDE.
 
 ## Calling the application
 Open the URL `http://localhost:8080/hello` with your browser or REST client.
