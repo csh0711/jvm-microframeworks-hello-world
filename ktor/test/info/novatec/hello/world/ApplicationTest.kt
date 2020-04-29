@@ -1,9 +1,6 @@
-package info.novatec.hello
+package info.novatec.hello.world
 
-import io.ktor.application.*
-import io.ktor.response.*
-import io.ktor.request.*
-import io.ktor.routing.*
+import info.novatec.hello.world.module
 import io.ktor.http.*
 import kotlin.test.*
 import io.ktor.server.testing.*

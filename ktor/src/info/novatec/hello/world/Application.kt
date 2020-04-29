@@ -1,4 +1,4 @@
-package info.novatec.hello
+package info.novatec.hello.world
 
 import io.ktor.application.Application
 import io.ktor.application.call
