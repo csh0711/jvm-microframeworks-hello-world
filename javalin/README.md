@@ -1,4 +1,4 @@
-# "Hello World" using [Eclipse Vert.x](https://vertx.io/)
+# "Hello World" using [Javalin](https://javalin.io/)
 
 ## Starting the application
 
