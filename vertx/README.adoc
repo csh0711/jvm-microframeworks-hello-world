@@ -1,4 +1,4 @@
-# "Hello World" using [Eclipse Vert.x](https://vertx.io/)
+= "Hello World" using https://vertx.io/[Eclipse Vert.x]
 
 image:https://img.shields.io/badge/vert.x-3.8.5-purple.svg[link="https://vertx.io"]
 
