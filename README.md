@@ -8,7 +8,7 @@ lead article
 (edition 06.2020).
 
 
-You read find the article 
+You can find the article 
 [here](https://kiosk.entwickler.de/java-magazin/java-magazin-6-2020/per-microframeworks-durch-die-galaxis/) 
 as well as the introduction to the different frameworks 
 [here](https://kiosk.entwickler.de/java-magazin/java-magazin-6-2020/alle-neune/).
