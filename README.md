@@ -2,9 +2,8 @@
   
 This repository contains several _"Hello World"_ examples of JVM-Microframeworks.
 
-This includes all code fragments of [Carlos'](https://github.com/carlosbarragan) and my Java Magazin
-lead article 
-[Per Microframeworks durch die Galaxis -Der schnellste Weg zu modernen Java-Microservices](https://kiosk.entwickler.de/java-magazin/java-magazin-6-2020/) 
+This includes all code fragments of [Carlos'](https://github.com/carlosbarragan) and my Java Magazin article 
+[Per Microframeworks durch die Galaxis - Der schnellste Weg zu modernen Java-Microservices](https://kiosk.entwickler.de/java-magazin/java-magazin-6-2020/) 
 (edition 06.2020).
 
 
@@ -44,3 +43,5 @@ with your browser or REST client.
 ## Advanced examples
 If you need a bit more than just _"Hello World"_ - please have a look at my other 
 [repository with Kotlin / MongoDB samples](https://github.com/csh0711/jvm-microframeworks-kotlin-samples).
+
+
