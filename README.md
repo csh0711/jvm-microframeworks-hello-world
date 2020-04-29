@@ -2,7 +2,7 @@
   
 This repository contains several _"Hello World"_ examples of JVM-Microframeworks.
 
-This includes all code fragments of [Carlos'](https://github.com/carlosbarragan) and mine Java Magazin
+This includes all code fragments of [Carlos'](https://github.com/carlosbarragan) and my Java Magazin
 lead article 
 [Per Microframeworks durch die Galaxis -Der schnellste Weg zu modernen Java-Microservices](https://kiosk.entwickler.de/java-magazin/java-magazin-6-2020/) 
 (edition 06.2020).
