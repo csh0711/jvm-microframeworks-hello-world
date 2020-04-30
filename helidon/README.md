@@ -1,4 +1,4 @@
-# Helidon Hello World Example
+# "Hello World" using [Helidon](https://helidon.io)
 
 This project implements a simple Hello World REST service using Helidon SE.
 
